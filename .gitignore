@@ -1,0 +1,58 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ipch
+*.iobj
+*.ipdb
+x64/
+x86/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio Code workspace
+.vscode/
+
+# Backup & crash files
+*.log
+*.bak
+*.tmp
+
+# CMake-generated files (nếu dùng CMake)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Precompiled headers
+*.pch
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Others
+*.tlog
+*.lastbuildstate
+*.cache
+*.db
+
+# Ignore generated files from enc/dec (nếu bạn có tạo file encrypt/decrypt)
+*.enc
+*.dec
+
+# Ignore compiled OpenSSL files (nếu bạn tự build OpenSSL)
+openssl-*
+
+# Ignore test output
+test_output/
