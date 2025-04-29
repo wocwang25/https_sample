@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|solutionrelative:Demo_HTTPS\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|solutionrelative:Demo_HTTPS\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\https_tcpserver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|solutionrelative:Demo_HTTPS\\https_tcpserver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\https_tcpserver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|solutionrelative:Demo_HTTPS\\https_tcpserver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\auth_handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|solutionrelative:Demo_HTTPS\\auth_handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\auth_page.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E20E50C2-7753-41C3-80B3-A2125C090A8D}|Demo_HTTPS\\Demo_HTTPS.vcxproj|solutionrelative:Demo_HTTPS\\auth_page.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,15 +50,99 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.txt",
+              "DocumentMoniker": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-29T14:42:35.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "users.csv",
+              "DocumentMoniker": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\users.csv",
+              "RelativeDocumentMoniker": "Demo_HTTPS\\users.csv",
+              "ToolTip": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\users.csv",
+              "RelativeToolTip": "Demo_HTTPS\\users.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-29T14:42:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "https_tcpserver.h",
+              "DocumentMoniker": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\https_tcpserver.h",
+              "RelativeDocumentMoniker": "Demo_HTTPS\\https_tcpserver.h",
+              "ToolTip": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\https_tcpserver.h",
+              "RelativeToolTip": "Demo_HTTPS\\https_tcpserver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T14:01:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "auth_page.cpp",
+              "DocumentMoniker": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\auth_page.cpp",
+              "RelativeDocumentMoniker": "Demo_HTTPS\\auth_page.cpp",
+              "ToolTip": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\auth_page.cpp",
+              "RelativeToolTip": "Demo_HTTPS\\auth_page.cpp",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T14:00:16.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "auth_handler.cpp",
+              "DocumentMoniker": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\auth_handler.cpp",
+              "RelativeDocumentMoniker": "Demo_HTTPS\\auth_handler.cpp",
+              "ToolTip": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\auth_handler.cpp",
+              "RelativeToolTip": "Demo_HTTPS\\auth_handler.cpp",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T14:00:15.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cpp",
+              "DocumentMoniker": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\server.cpp",
+              "RelativeDocumentMoniker": "Demo_HTTPS\\server.cpp",
+              "ToolTip": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\server.cpp",
+              "RelativeToolTip": "Demo_HTTPS\\server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T14:00:13.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "https_tcpserver.cpp",
+              "DocumentMoniker": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\https_tcpserver.cpp",
+              "RelativeDocumentMoniker": "Demo_HTTPS\\https_tcpserver.cpp",
+              "ToolTip": "D:\\HCMUS\\Nam3\\MaHoaUngDung\\DemoSeminar\\https_sample\\Demo_HTTPS\\https_tcpserver.cpp",
+              "RelativeToolTip": "Demo_HTTPS\\https_tcpserver.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T14:00:08.965Z"
             }
           ]
         }

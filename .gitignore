@@ -10,6 +10,7 @@
 *.ipdb
 x64/
 x86/
+.vs
 
 # User-specific files
 *.user
